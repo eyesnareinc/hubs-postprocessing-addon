@@ -36,7 +36,7 @@
   },
   "peerDependencies": {
     "bitecs": "github:eyesnareinc/bitECS#master",
-    "postprocessing": "~6.28.7",
+    "postprocessing": "~6.37.1",
     "three": "github:eyesnareinc/three.js#hubs/master"
   }
 }
